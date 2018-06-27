@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+.floydignore
+.floydexpt
+
+input/*.npy
+
+outputs/
+glove/
+word2vec/
+misc/

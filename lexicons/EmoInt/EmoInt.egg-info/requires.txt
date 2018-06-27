@@ -1,0 +1,4 @@
+Cython
+sklearn
+numpy
+nltk
